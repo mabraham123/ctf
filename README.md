@@ -5,4 +5,4 @@ Created using HTML, Bootstrap and Vanilla Javascript
 
 
 ## Things to improve
-*Hash the answers and user input
+* Hash the answers and user input
