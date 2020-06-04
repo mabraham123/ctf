@@ -3,6 +3,8 @@
 A challenge for an Open Source Intelligence challenge where the answer to challenge 1 is needed for challenge 2 and so on.
 Created using HTML, Bootstrap and Vanilla Javascript
 
+https://mabraham123.github.io/ctf/challenge
 
-## Things to improve
+
+## Additions
 * Hash the answers and user input
