@@ -5,6 +5,14 @@ Created using HTML5, Bootstrap and JavaScript in a day
 
 https://mabraham123.github.io/ctf/challenge
 
+## Technology Used
+- HTML5 
+- CSS3
+- Bootstrap 4
+- Javascript
 
-## Additions
+## Misc
+- A2 grade achived for this project
+
+## Future Additions
 * Hash the answers and user input
