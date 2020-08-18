@@ -9,8 +9,5 @@ https://mabraham123.github.io/ctf/challenge
 - Bootstrap 4
 - Javascript
 
-## Misc
-- A2 grade achived for this project
-
 ## Future Additions
 * Hash the answers and user input then compare hashes than comparing plaintext
